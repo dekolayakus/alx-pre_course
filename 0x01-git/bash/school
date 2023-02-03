@@ -1,5 +1,7 @@
 
 #!/bin/bash
 
-Echo "school"
+echo "The school is open!"
+
+
 
